@@ -1,0 +1,1 @@
+tf-idf, lmjm, both P(q|d), P(w|d)

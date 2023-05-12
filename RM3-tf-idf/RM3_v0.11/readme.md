@@ -1,0 +1,1 @@
+tf-idf, lmdir, both smoothing, P(w|d), P(q|d)

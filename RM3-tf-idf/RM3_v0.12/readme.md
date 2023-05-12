@@ -1,0 +1,1 @@
+tf-idf, lmjm, only P(q|d)
